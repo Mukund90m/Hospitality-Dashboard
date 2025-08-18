@@ -24,7 +24,8 @@ It provides key insights into business performance, customer behavior, and opera
 - Access to relevant data sources (hospitality-related data such as bookings, revenue, occupancy)  
 
 ## 📷 Screenshots
-*(Add sample screenshots of the dashboard here once available)*  
+### Dashboard Overview
+![Dashboard Screenshot](assets/Screenshot_Hospitality.png) 
 
 ## 💡 Use Cases
 - Hotel & resort performance tracking  
