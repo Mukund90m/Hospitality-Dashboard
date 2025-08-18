@@ -25,7 +25,7 @@ It provides key insights into business performance, customer behavior, and opera
 
 ## 📷 Screenshots
 ### Dashboard Overview
-![Dashboard Screenshot](assets/Screenshot_Hospitality.png) 
+![Dashboard Screenshot]([assets/Screenshot_Hospitality.png](https://github.com/Mukund90m/Hospitality-Dashboard/blob/main/Screenshot_Hospitality.png)) 
 
 ## 💡 Use Cases
 - Hotel & resort performance tracking  
